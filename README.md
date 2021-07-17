@@ -1,4 +1,4 @@
 # Side Hustle Internship
 
-### Link to the deployed site
-https://mystifying-murdock-ffa716.netlify.app/
+### Hosted link
+https://hennieshow.github.io/Color-flipper/
